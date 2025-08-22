@@ -12,10 +12,10 @@ const ScheduleTable = () => {
     },
     {
       date: "28-07-2023",
-      staff: "Dr Ram",
+      staff: "Dr Ravindra",
       startTime: "03:00 PM",
       endTime: "05:00 PM",
-      slotsMin: 10,
+      slotsMin: 15,
       timeSlots: [],
     },
   ]);
