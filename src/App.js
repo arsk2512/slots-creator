@@ -5,9 +5,7 @@ import ScheduleTable from './ScheduleTable';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <ScheduleTable />
-      </header>
+      <ScheduleTable />
     </div>
   );
 }
